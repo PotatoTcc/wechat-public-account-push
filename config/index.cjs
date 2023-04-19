@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oBoCq6CyGXtvwXpErAZHA03S5pRo',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'lKEwK2ycgjPfLFp9ISxfhtP81tyCuAKo6I6UhfkI81k',
+      useTemplateId: 'QinZ0cD9MflS02sw8bWQbfJcsvpsbf2d770SRnsDyf4',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
@@ -114,7 +114,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oBoCq6FKqnqZzoh-veT9N0UMxl4c',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'y77d4lyAnvG83vI6bL_ScnTblwUheWH0HG3y_FNwzO8',
+      useTemplateId: '_1mjg1CZQz4UVgnuxwUppGtDHk7sT2YReJ4_kn2hZEA',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
@@ -135,7 +135,7 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2022-09-08' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-09-09' },
+        { keyword: 'know_day', date: '2022-03-07' },
       ],
       courseSchedule: {
         // 单双周的基准
@@ -203,7 +203,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'pGPs8iCsMrBl__MYSxZqZrCer02RNioAU6a3dtw5YW4',
+  CALLBACK_TEMPLATE_ID: 'QinZ0cD9MflS02sw8bWQbfJcsvpsbf2d770SRnsDyf4',
 
   CALLBACK_USERS: [
     {
